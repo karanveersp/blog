@@ -1,6 +1,6 @@
 baseURL = "https://karanveersp.github.io/"
 languageCode = "en-us"
-title = "Karanveer"
+title = "The Mighty Source"
 theme = "ezhil"
 
 copyright = "2019 Karanveer"
@@ -10,7 +10,7 @@ disqusShortname = "https-karanveersp-github-io"
 
 [params]
     # blog subtitle. supports markdown
-    subtitle = "Code Commander"
+    subtitle = "A blog about code"
 
     # content types which are included in  home page recent posts list
     mainSections = ["posts"]
